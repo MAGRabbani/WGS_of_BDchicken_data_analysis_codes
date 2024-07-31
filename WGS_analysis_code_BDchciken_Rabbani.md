@@ -1,4 +1,4 @@
-# **Code Availability**
+# **Codes used for WGS data analysis**
 
 WGS data analyses from 96 Bangladeshi indigenous chickens were performed using standard bioinformatic tools in Scientific Linux 7-based High Performance Computing (HPC) system (Eddie) of the University of Edinburgh. The versions and parameters of the primary software/tools are described below:
 
